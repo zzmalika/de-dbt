@@ -3,11 +3,11 @@ version: 2
 
 sources:
     - name: staging
-      #For bigquery:
-      #database: taxi-rides-ny-339813
+      For bigquery:
+      database: datatalks-de-395513 
 
       # For postgres:
-      database: production
+      # database: production
 
       schema: trips_data_all
 
